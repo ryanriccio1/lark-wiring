@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=Accessory.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Accessory.SchDoc|FileName=Engine.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Accessory.SchDoc|FileName=Gauges.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Accessory.SchDoc|FileName=Relays.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Accessory.SchDoc|FileName=Switches.SchDoc|SheetNumber=3
